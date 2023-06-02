@@ -2,3 +2,7 @@
 .idea
 datasets
 tstex_modules
+papers
+code/saved_models/*
+code/logits/*
+
